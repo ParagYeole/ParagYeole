@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...**SharePoint Developer
-- 🌱 I’m currently learning ...**React JS, SPFx, PowerApps, PowerAutomate
+- 🔭 I’m currently working on ...### SharePoint Developer
+- 🌱 I’m currently learning ...### React JS, SPFx, PowerApps, PowerAutomate
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
